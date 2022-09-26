@@ -1,0 +1,506 @@
+ID,Ticker,Company,SubIndustry,Price
+1,MMM,3M Company,Industrial Conglomerates,198
+2,ABT,Abbott Laboratories,Health Care Equipment & Services,198.01
+3,ABBV,AbbVie,Pharmaceuticals,198.02
+4,ACN,Accenture plc,IT Consulting & Other Services,198.03
+5,ACE,ACE Limited,Property & Casualty Insurance,198.04
+6,ACT,Actavis plc,Pharmaceuticals,198.05
+7,ADBE,Adobe Systems Inc,Application Software,198.06
+8,ADT,ADT Corp,Diversified Commercial Services,198.07
+9,AES,AES Corp,Independent Power Producers & Energy Traders,198.08
+10,AET,Aetna Inc,Managed Health Care,198.09
+11,AFL,AFLAC Inc,Life & Health Insurance,198.1
+12,AMG,Affiliated Managers Group Inc,Asset Management & Custody Banks,198.11
+13,A,Agilent Technologies Inc,Health Care Equipment & Services,198.12
+14,GAS,AGL Resources Inc.,Gas Utilities,198.13
+15,APD,Air Products & Chemicals Inc,Industrial Gases,198.14
+16,ARG,Airgas Inc,Industrial Gases,198.15
+17,AKAM,Akamai Technologies Inc,Internet Software & Services,198.16
+18,AA,Alcoa Inc,Aluminum,198.17
+19,ALXN,Alexion Pharmaceuticals,Biotechnology,198.18
+20,ATI,Allegheny Technologies Inc,Diversified Metals & Mining,198.19
+21,ALLE,Allegion,Building Products,198.2
+22,ADS,Alliance Data Systems,Data Processing & Outsourced Services,198.21
+23,ALL,Allstate Corp,Property & Casualty Insurance,198.22
+24,ALTR,Altera Corp,Semiconductors,198.23
+25,MO,Altria Group Inc,Tobacco,198.24
+26,AMZN,Amazon.com Inc,Internet Retail,198.25
+27,AEE,Ameren Corp,MultiUtilities,198.26
+28,AAL,American Airlines Group,Airlines,198.27
+29,AEP,American Electric Power,Electric Utilities,198.28
+30,AXP,American Express Co,Consumer Finance,198.29
+31,AIG,"American International Group, Inc.",Property & Casualty Insurance,198.3
+32,AMT,American Tower Corp A,Specialized REITs,198.31
+33,AMP,Ameriprise Financial,Diversified Financial Services,198.32
+34,ABC,AmerisourceBergen Corp,Health Care Distribution & Services,198.33
+35,AME,Ametek,Electrical Components & Equipment,198.34
+36,AMGN,Amgen Inc,Biotechnology,198.35
+37,APH,Amphenol Corp A,Electrical Components & Equipment,198.36
+38,APC,Anadarko Petroleum Corp,Oil & Gas Exploration & Production,198.37
+39,ADI,"Analog Devices, Inc.",Semiconductors,198.38
+40,AON,Aon plc,Insurance Brokers,198.39
+41,APA,Apache Corporation,Oil & Gas Exploration & Production,198.4
+42,AIV,Apartment Investment & Mgmt,REITs,198.41
+43,AAPL,Apple Inc.,Computer Hardware,198.42
+44,AMAT,Applied Materials Inc,Semiconductor Equipment,198.43
+45,ADM,Archer-Daniels-Midland Co,Agricultural Products,198.44
+46,AIZ,Assurant Inc,Multi-line Insurance,198.45
+47,T,AT&T Inc,Integrated Telecommunications Services,198.46
+48,ADSK,Autodesk Inc,Application Software,198.47
+49,ADP,Automatic Data Processing,Internet Software & Services,198.48
+50,AN,AutoNation Inc,Specialty Stores,198.49
+51,AZO,AutoZone Inc,Specialty Stores,198.5
+52,AVGO,Avago Technologies,Semiconductors,198.51
+53,AVB,"AvalonBay Communities, Inc.",Residential REITs,198.52
+54,AVY,Avery Dennison Corp,Paper Packaging,198.53
+55,BHI,Baker Hughes Inc,Oil & Gas Equipment & Services,198.54
+56,BLL,Ball Corp,Metal & Glass Containers,198.55
+57,BAC,Bank of America Corp,Banks,198.56
+58,BK,The Bank of New York Mellon Corp.,Banks,198.57
+59,BCR,Bard (C.R.) Inc.,Health Care Equipment & Services,198.58
+60,BAX,Baxter International Inc.,Health Care Equipment & Services,198.59
+61,BBT,BB&T Corporation,Banks,198.6
+62,BDX,Becton Dickinson,Health Care Equipment & Services,198.61
+63,BBBY,Bed Bath & Beyond,Specialty Stores,198.62
+64,BRK-B,Berkshire Hathaway,Multi-Sector Holdings,198.63
+65,BBY,Best Buy Co. Inc.,Computer & Electronics Retail,198.64
+66,BIIB,BIOGEN IDEC Inc.,Biotechnology,198.65
+67,BLK,BlackRock,Asset Management & Custody Banks,198.66
+68,HRB,Block H&R,Consumer Finance,198.67
+69,BA,Boeing Company,Aerospace & Defense,198.68
+70,BWA,BorgWarner,Auto Parts & Equipment,198.69
+
+71,BXP,Boston Properties,REITs,198.7
+72,BSX,Boston Scientific,Health Care Equipment & Services,198.71
+73,BMY,Bristol-Myers Squibb,Health Care Distributors & Services,198.72
+74,BRCM,Broadcom Corporation,Semiconductors,198.73
+75,BF-B,Brown-Forman Corporation,Distillers & Vintners,198.74
+76,CHRW,C. H. Robinson Worldwide,Air Freight & Logistics,198.75
+77,CA,"CA, Inc.",Systems Software,198.76
+78,CVC,Cablevision Systems Corp.,Broadcasting & Cable TV,198.77
+79,COG,Cabot Oil & Gas,Oil & Gas Exploration & Production,198.78
+80,CAM,Cameron International Corp.,Oil & Gas Equipment & Services,198.79
+81,CPB,Campbell Soup,Packaged Foods & Meats,198.8
+82,COF,Capital One Financial,Consumer Finance,198.81
+83,CAH,Cardinal Health Inc.,Health Care Distributors & Services,198.82
+84,HSIC,Henry Schein,Health Care Distributors,198.83
+85,KMX,Carmax Inc,Specialty Stores,198.84
+86,CCL,Carnival Corp.,"Hotels, Resorts & Cruise Lines",198.85
+87,CAT,Caterpillar Inc.,Construction & Farm Machinery & Heavy Trucks,198.86
+88,CBG,CBRE Group,Real Estate Services,198.87
+89,CBS,CBS Corp.,Broadcasting & Cable TV,198.88
+90,CELG,Celgene Corp.,Biotechnology,198.89
+91,CNP,CenterPoint Energy,MultiUtilities,198.9
+92,CTL,CenturyLink Inc,Integrated Telecommunications Services,198.91
+93,CERN,Cerner,Health Care Distributors & Services,198.92
+94,CF,CF Industries Holdings Inc,Fertilizers & Agricultural Chemicals,198.93
+95,SCHW,Charles Schwab Corporation,Investment Banking & Brokerage,198.94
+96,CHK,Chesapeake Energy,Integrated Oil & Gas,198.95
+97,CVX,Chevron Corp.,Integrated Oil & Gas,198.96
+98,CMG,Chipotle Mexican Grill,Restaurants,198.97
+99,CB,Chubb Corp.,Property & Casualty Insurance,198.98
+100,CI,CIGNA Corp.,Managed Health Care,198.99
+101,XEC,Cimarex Energy,Oil & Gas Exploration & Production,199
+102,CINF,Cincinnati Financial,Property & Casualty Insurance,199.01
+103,CTAS,Cintas Corporation,Diversified Support Services,199.02
+104,CSCO,Cisco Systems,Networking Equipment,199.03
+105,C,Citigroup Inc.,Banks,199.04
+106,CTXS,Citrix Systems,Internet Software & Services,199.05
+107,CLX,The Clorox Company,Household Products,199.06
+108,CME,CME Group Inc.,Diversified Financial Services,199.07
+109,CMS,CMS Energy,MultiUtilities,199.08
+110,COH,Coach Inc.,"Apparel, Accessories & Luxury Goods",199.09
+111,KO,The Coca Cola Company,Soft Drinks,199.1
+112,CCE,Coca-Cola Enterprises,Soft Drinks,199.11
+113,CTSH,Cognizant Technology Solutions,IT Consulting & Services,199.12
+114,CL,Colgate-Palmolive,Household Products,199.13
+115,CMCSA,Comcast Corp.,Broadcasting & Cable TV,199.14
+116,CMA,Comerica Inc.,Banks,199.15
+117,CSC,Computer Sciences Corp.,IT Consulting & Services,199.16
+118,CAG,ConAgra Foods Inc.,Packaged Foods & Meats,199.17
+119,COP,ConocoPhillips,Oil & Gas Exploration & Production,199.18
+120,CNX,CONSOL Energy Inc.,Coal & Consumable Fuels,199.19
+121,ED,Consolidated Edison,Electric Utilities,199.2
+122,STZ,Constellation Brands,Distillers & Vintners,199.21
+123,GLW,Corning Inc.,Construction & Engineering,199.22
+124,COST,Costco Co.,Hypermarkets & Super Centers,199.23
+125,CCI,Crown Castle International Corp.,REITs,199.24
+126,CSX,CSX Corp.,Railroads,199.25
+127,CMI,Cummins Inc.,Industrial Machinery,199.26
+128,CVS,CVS Caremark Corp.,Drug Retail,199.27
+129,DHI,D. R. Horton,Homebuilding,199.28
+130,DHR,Danaher Corp.,Industrial Machinery,199.29
+131,DRI,Darden Restaurants,Restaurants,199.3
+132,DVA,DaVita Inc.,Health Care Facilities,199.31
+133,DE,Deere & Co.,Construction & Farm Machinery & Heavy Trucks,199.32
+134,DLPH,Delphi Automotive,Auto Parts & Equipment,199.33
+135,DAL,Delta Air Lines,Airlines,199.34
+136,XRAY,Dentsply International,Health Care Supplies,199.35
+137,DVN,Devon Energy Corp.,Oil & Gas Exploration & Production,199.36
+138,DO,Diamond Offshore Drilling,Oil & Gas Drilling,199.37
+139,DTV,DirecTV,Broadcasting & Cable TV,199.38
+140,DFS,Discover Financial Services,Consumer Finance,199.39
+141,DISCA,Discovery Communications-A,Broadcasting & Cable TV,199.4
+142,DISCK,Discovery Communications-C,Broadcasting & Cable TV,199.41
+143,DG,Dollar General,General Merchandise Stores,199.42
+144,DLTR,Dollar Tree,General Merchandise Stores,199.43
+145,D,Dominion Resources,Electric Utilities,199.44
+146,DOV,Dover Corp.,Industrial Machinery,199.45
+147,DOW,Dow Chemical,Diversified Chemicals,199.46
+148,DPS,Dr Pepper Snapple Group,Soft Drinks,199.47
+149,DTE,DTE Energy Co.,MultiUtilities,199.48
+150,DD,Du Pont (E.I.),Diversified Chemicals,199.49
+151,DUK,Duke Energy,Electric Utilities,199.5
+152,DNB,Dun & Bradstreet,Data Processing Services,199.51
+153,ETFC,E*Trade,Investment Banking & Brokerage,199.52
+154,EMN,Eastman Chemical,Diversified Chemicals,199.53
+155,ETN,Eaton Corporation,Industrial Conglomerates,199.54
+156,EBAY,eBay Inc.,Internet Software & Services,199.55
+157,ECL,Ecolab Inc.,Specialty Chemicals,199.56
+158,EIX,Edison Int'l,Electric Utilities,199.57
+159,EW,Edwards Lifesciences,Health Care Equipment & Services,199.58
+160,EA,Electronic Arts,Home Entertainment Software,199.59
+161,EMC,EMC Corp.,IT Consulting & Services,199.6
+162,EMR,Emerson Electric Company,Industrial Conglomerates,199.61
+163,ENDP,Endo International,Pharmaceuticals,199.62
+164,ESV,Ensco plc,Oil & Gas Drilling,199.63
+165,ETR,Entergy Corp.,Electric Utilities,199.64
+166,EOG,EOG Resources,Oil & Gas Exploration & Production,199.65
+167,EQT,EQT Corporation,Oil & Gas Exploration & Production,199.66
+168,EFX,Equifax Inc.,Diversified Financial Services,199.67
+169,EQIX,Equinix,Internet Software & Services,199.68
+170,EQR,Equity Residential,REITs,199.69
+171,ESS,Essex Property Trust Inc,Residential REITs,199.7
+172,EL,Estee Lauder Cos.,Personal Products,199.71
+173,ES,Eversource Energy,MultiUtilities,199.72
+174,EXC,Exelon Corp.,MultiUtilities,199.73
+175,EXPE,Expedia Inc.,"Hotels, Resorts & Cruise Lines",199.74
+176,EXPD,Expeditors Int'l,Air Freight & Logistics,199.75
+177,ESRX,Express Scripts,Health Care Distributors & Services,199.76
+178,XOM,Exxon Mobil Corp.,Integrated Oil & Gas,199.77
+179,FFIV,F5 Networks,Networking Equipment,199.78
+180,FB,Facebook,Internet Software & Services,199.79
+181,FDO,Family Dollar Stores,General Merchandise Stores,199.8
+182,FAST,Fastenal Co,Building Products,199.81
+183,FDX,FedEx Corporation,Air Freight & Logistics,199.82
+184,FIS,Fidelity National Information Services,Internet Software & Services,199.83
+185,FITB,Fifth Third Bancorp,Banks,199.84
+186,FSLR,First Solar Inc,Semiconductors,199.85
+187,FE,FirstEnergy Corp,Electric Utilities,199.86
+188,FISV,Fiserv Inc,Internet Software & Services,199.87
+189,FLIR,FLIR Systems,Aerospace & Defense,199.88
+190,FLS,Flowserve Corporation,Industrial Machinery,199.89
+191,FLR,Fluor Corp.,Diversified Commercial Services,199.9
+192,FMC,FMC Corporation,Diversified Chemicals,199.91
+193,FTI,FMC Technologies Inc.,Oil & Gas Equipment & Services,199.92
+194,F,Ford Motor,Automobile Manufacturers,199.93
+195,FOSL,"Fossil, Inc.","Apparel, Accessories & Luxury Goods",199.94
+196,BEN,Franklin Resources,Asset Management & Custody Banks,199.95
+197,FCX,Freeport-McMoran Cp & Gld,Diversified Metals & Mining,199.96
+198,FTR,Frontier Communications,Integrated Telecommunications Services,199.97
+199,GME,GameStop Corp.,Computer & Electronics Retail,199.98
+200,GCI,Gannett Co.,Publishing,199.99
+201,GPS,Gap (The),Apparel Retail,200
+202,GRMN,Garmin Ltd.,Consumer Electronics,200.01
+203,GD,General Dynamics,Aerospace & Defense,200.02
+204,GE,General Electric,Industrial Conglomerates,200.03
+205,GGP,General Growth Properties Inc.,REITs,200.04
+206,GIS,General Mills,Packaged Foods & Meats,200.05
+207,GM,General Motors,Automobile Manufacturers,200.06
+208,GPC,Genuine Parts,Specialty Stores,200.07
+209,GNW,Genworth Financial Inc.,Life & Health Insurance,200.08
+210,GILD,Gilead Sciences,Biotechnology,200.09
+211,GS,Goldman Sachs Group,Investment Banking & Brokerage,200.1
+212,GT,Goodyear Tire & Rubber,Tires & Rubber,200.11
+213,GOOGL,Google Inc Class A,Internet Software & Services,200.12
+214,GOOG,Google Inc Class C,Internet Software & Services,200.13
+215,GWW,Grainger (W.W.) Inc.,Industrial Materials,200.14
+216,HAL,Halliburton Co.,Oil & Gas Equipment & Services,200.15
+217,HBI,Hanesbrands Inc,"Apparel, Accessories & Luxury Goods",200.16
+218,HOG,Harley-Davidson,Motorcycle Manufacturers,200.17
+219,HAR,Harman Int'l Industries,Consumer Electronics,200.18
+220,HRS,Harris Corporation,Telecommunications Equipment,200.19
+221,HIG,Hartford Financial Svc.Gp.,Property & Casualty Insurance,200.2
+222,HAS,Hasbro Inc.,Leisure Products,200.21
+223,HCA,HCA Holdings,Health Care Facilities,200.22
+224,HCP,HCP Inc.,REITs,200.23
+225,HCN,"Health Care REIT, Inc.",REITs,200.24
+226,HP,Helmerich & Payne,Oil & Gas Drilling,200.25
+227,HES,Hess Corporation,Integrated Oil & Gas,200.26
+228,HPQ,Hewlett-Packard,Computer Hardware,200.27
+229,HD,Home Depot,Home Improvement Retail,200.28
+230,HON,Honeywell Int'l Inc.,Industrial Conglomerates,200.29
+231,HRL,Hormel Foods Corp.,Packaged Foods & Meats,200.3
+232,HSP,Hospira Inc.,Health Care Equipment & Services,200.31
+233,HST,Host Hotels & Resorts,REITs,200.32
+234,HCBK,Hudson City Bancorp,Thrifts & Mortgage Finance,200.33
+235,HUM,Humana Inc.,Managed Health Care,200.34
+236,HBAN,Huntington Bancshares,Banks,200.35
+237,ITW,Illinois Tool Works,Industrial Machinery,200.36
+238,IR,Ingersoll-Rand PLC,Industrial Conglomerates,200.37
+239,TEG,Integrys Energy Group Inc.,MultiUtilities,200.38
+240,INTC,Intel Corp.,Semiconductors,200.39
+241,ICE,Intercontinental Exchange,Diversified Financial Services,200.4
+242,IBM,International Bus. Machines,IT Consulting & Services,200.41
+243,IP,International Paper,Paper Products,200.42
+244,IPG,Interpublic Group,Advertising,200.43
+245,IFF,Intl Flavors & Fragrances,Specialty Chemicals,200.44
+246,INTU,Intuit Inc.,Internet Software & Services,200.45
+247,ISRG,Intuitive Surgical Inc.,Health Care Equipment & Services,200.46
+248,IVZ,Invesco Ltd.,Asset Management & Custody Banks,200.47
+249,IRM,Iron Mountain Incorporated,Data Processing Services,200.48
+250,JEC,Jacobs Engineering Group,Industrial Conglomerates,200.49
+251,JNJ,Johnson & Johnson,Health Care Equipment & Services,200.5
+252,JCI,Johnson Controls,Auto Parts & Equipment,200.51
+253,JOY,Joy Global Inc.,Industrial Machinery,200.52
+254,JPM,JPMorgan Chase & Co.,Banks,200.53
+255,JNPR,Juniper Networks,Networking Equipment,200.54
+256,KSU,Kansas City Southern,Railroads,200.55
+257,K,Kellogg Co.,Packaged Foods & Meats,200.56
+258,KEY,KeyCorp,Banks,200.57
+259,GMCR,Keurig Green Mountain,Packaged Foods & Meats,200.58
+260,KMB,Kimberly-Clark,Household Products,200.59
+261,KIM,Kimco Realty,REITs,200.6
+262,KMI,Kinder Morgan,Oil & Gas Refining & Marketing & Transportation,200.61
+263,KLAC,KLA-Tencor Corp.,Semiconductor Equipment,200.62
+264,KSS,Kohl's Corp.,General Merchandise Stores,200.63
+265,KRFT,Kraft Foods Group,Packaged Foods & Meats,200.64
+266,KR,Kroger Co.,Food Retail,200.65
+267,LB,L Brands Inc.,Apparel Retail,200.66
+268,LLL,L-3 Communications Holdings,Industrial Conglomerates,200.67
+269,LH,Laboratory Corp. of America Holding,Health Care Facilities,200.68
+270,LRCX,Lam Research,Semiconductor Equipment,200.69
+271,LM,Legg Mason,Asset Management & Custody Banks,200.7
+272,LEG,Leggett & Platt,Industrial Conglomerates,200.71
+273,LEN,Lennar Corp.,Homebuilding,200.72
+274,LVLT,Level 3 Communications,Alternative Carriers,200.73
+275,LUK,Leucadia National Corp.,Multi-Sector Holdings,200.74
+276,LLY,Lilly (Eli) & Co.,Pharmaceuticals,200.75
+277,LNC,Lincoln National,Multi-line Insurance,200.76
+278,LLTC,Linear Technology Corp.,Semiconductors,200.77
+279,LMT,Lockheed Martin Corp.,Aerospace & Defense,200.78
+280,L,Loews Corp.,Multi-Sector Holdings,200.79
+281,LO,Lorillard Inc.,Tobacco,200.8
+282,LOW,Lowe's Cos.,Home Improvement Retail,200.81
+283,LYB,LyondellBasell,Diversified Chemicals,200.82
+284,MTB,M&T Bank Corp.,Banks,200.83
+285,MAC,Macerich,Retail REITs,200.84
+286,M,Macy's Inc.,Department Stores,200.85
+287,MNK,Mallinckrodt Plc,Pharmaceuticals,200.86
+288,MRO,Marathon Oil Corp.,Oil & Gas Exploration & Production,200.87
+289,MPC,Marathon Petroleum,Oil & Gas Refining & Marketing & Transportation,200.88
+290,MAR,Marriott Int'l.,"Hotels, Resorts & Cruise Lines",200.89
+291,MMC,Marsh & McLennan,Insurance Brokers,200.9
+292,MLM,Martin Marietta Materials,Construction Materials,200.91
+293,MAS,Masco Corp.,Building Products,200.92
+294,MA,Mastercard Inc.,Internet Software & Services,200.93
+295,MAT,Mattel Inc.,Leisure Products,200.94
+296,MKC,McCormick & Co.,Packaged Foods & Meats,200.95
+297,MCD,McDonald's Corp.,Restaurants,200.96
+298,MHFI,McGraw Hill Financial,Diversified Financial Services,200.97
+299,MCK,McKesson Corp.,Health Care Distributors & Services,200.98
+300,MJN,Mead Johnson,Packaged Foods & Meats,200.99
+301,MWV,MeadWestvaco Corporation,Paper Packaging,201
+302,MDT,Medtronic plc,Health Care Equipment & Services,201.01
+303,MRK,Merck & Co.,Pharmaceuticals,201.02
+304,MET,MetLife Inc.,Life & Health Insurance,201.03
+305,KORS,Michael Kors Holdings,"Apparel, Accessories & Luxury Goods",201.04
+306,MCHP,Microchip Technology,Semiconductors,201.05
+307,MU,Micron Technology,Semiconductors,201.06
+308,MSFT,Microsoft Corp.,Systems Software,201.07
+309,MHK,Mohawk Industries,Home Furnishings,201.08
+310,TAP,Molson Coors Brewing Company,Brewers,201.09
+311,MDLZ,Mondelez International,Packaged Foods & Meats,201.1
+312,MON,Monsanto Co.,Fertilizers & Agricultural Chemicals,201.11
+313,MNST,Monster Beverage,Soft Drinks,201.12
+314,MCO,Moody's Corp,Diversified Financial Services,201.13
+315,MS,Morgan Stanley,Investment Banking & Brokerage,201.14
+316,MOS,The Mosaic Company,Fertilizers & Agricultural Chemicals,201.15
+317,MSI,Motorola Solutions Inc.,Telecommunications Equipment,201.16
+318,MUR,Murphy Oil,Integrated Oil & Gas,201.17
+319,MYL,Mylan N.V.,Pharmaceuticals,201.18
+320,NDAQ,NASDAQ OMX Group,Diversified Financial Services,201.19
+321,NOV,National Oilwell Varco Inc.,Oil & Gas Equipment & Services,201.2
+322,NAVI,Navient,Consumer Finance,201.21
+323,NTAP,NetApp,Internet Software & Services,201.22
+324,NFLX,Netflix Inc.,Internet Software & Services,201.23
+325,NWL,Newell Rubbermaid Co.,Housewares & Specialties,201.24
+326,NFX,Newfield Exploration Co,Oil & Gas Exploration & Production,201.25
+327,NEM,Newmont Mining Corp. (Hldg. Co.),Gold,201.26
+328,NWSA,News Corp.,Publishing,201.27
+329,NEE,NextEra Energy,MultiUtilities,201.28
+330,NLSN,Nielsen Holdings,Research & Consulting Services,201.29
+331,NKE,Nike,"Apparel, Accessories & Luxury Goods",201.3
+332,NI,NiSource Inc.,MultiUtilities,201.31
+333,NE,Noble Corp,Oil & Gas Drilling,201.32
+334,NBL,Noble Energy Inc,Oil & Gas Exploration & Production,201.33
+335,JWN,Nordstrom,Department Stores,201.34
+336,NSC,Norfolk Southern Corp.,Railroads,201.35
+337,NTRS,Northern Trust Corp.,Asset Management & Custody Banks,201.36
+338,NOC,Northrop Grumman Corp.,Aerospace & Defense,201.37
+339,NRG,NRG Energy,Independent Power Producers & Energy Traders,201.38
+340,NUE,Nucor Corp.,Steel,201.39
+341,NVDA,Nvidia Corporation,Semiconductors,201.4
+342,ORLY,O'Reilly Automotive,Specialty Stores,201.41
+343,OXY,Occidental Petroleum,Oil & Gas Exploration & Production,201.42
+344,OMC,Omnicom Group,Advertising,201.43
+345,OKE,ONEOK,Oil & Gas Exploration & Production,201.44
+346,ORCL,Oracle Corp.,Application Software,201.45
+347,OI,Owens-Illinois Inc,Metal & Glass Containers,201.46
+348,PCAR,PACCAR Inc.,Construction & Farm Machinery & Heavy Trucks,201.47
+349,PLL,Pall Corp.,Industrial Conglomerates,201.48
+350,PH,Parker-Hannifin,Industrial Conglomerates,201.49
+351,PDCO,Patterson Companies,Health Care Supplies,201.5
+352,PAYX,Paychex Inc.,Internet Software & Services,201.51
+353,PNR,Pentair Ltd.,Industrial Conglomerates,201.52
+354,PBCT,People's United Financial,Thrifts & Mortgage Finance,201.53
+355,POM,Pepco Holdings Inc.,Electric Utilities,201.54
+356,PEP,PepsiCo Inc.,Soft Drinks,201.55
+357,PKI,PerkinElmer,Health Care Equipment & Services,201.56
+358,PRGO,Perrigo,Pharmaceuticals,201.57
+359,PFE,Pfizer Inc.,Pharmaceuticals,201.58
+360,PCG,PG&E Corp.,MultiUtilities,201.59
+361,PM,Philip Morris International,Tobacco,201.6
+362,PSX,Phillips 66,Oil & Gas Refining & Marketing & Transportation,201.61
+363,PNW,Pinnacle West Capital,MultiUtilities,201.62
+364,PXD,Pioneer Natural Resources,Oil & Gas Exploration & Production,201.63
+365,PBI,Pitney-Bowes,Office Services & Supplies,201.64
+366,PCL,Plum Creek Timber Co.,REITs,201.65
+367,PNC,PNC Financial Services,Banks,201.66
+368,RL,Polo Ralph Lauren Corp.,"Apparel, Accessories & Luxury Goods",201.67
+369,PPG,PPG Industries,Diversified Chemicals,201.68
+370,PPL,PPL Corp.,Electric Utilities,201.69
+371,PX,Praxair Inc.,Industrial Gases,201.7
+372,PCP,Precision Castparts,Industrial Conglomerates,201.71
+373,PCLN,Priceline.com Inc,"Hotels, Resorts & Cruise Lines",201.72
+374,PFG,Principal Financial Group,Diversified Financial Services,201.73
+375,PG,Procter & Gamble,Personal Products,201.74
+376,PGR,Progressive Corp.,Property & Casualty Insurance,201.75
+377,PLD,Prologis,Diversified Financial Services,201.76
+378,PRU,Prudential Financial,Diversified Financial Services,201.77
+379,PEG,Public Serv. Enterprise Inc.,Electric Utilities,201.78
+380,PSA,Public Storage,REITs,201.79
+381,PHM,Pulte Homes Inc.,Homebuilding,201.8
+382,PVH,PVH Corp.,"Apparel, Accessories & Luxury Goods",201.81
+383,QEP,QEP Resources,Oil & Gas Exploration & Production,201.82
+384,PWR,Quanta Services Inc.,Industrial Conglomerates,201.83
+385,QCOM,QUALCOMM Inc.,Semiconductors,201.84
+386,DGX,Quest Diagnostics,Health Care Facilities,201.85
+387,RRC,Range Resources Corp.,Oil & Gas Exploration & Production,201.86
+388,RTN,Raytheon Co.,Aerospace & Defense,201.87
+389,O,Realty Income Corporation,Office REITs,201.88
+390,RHT,Red Hat Inc.,Systems Software,201.89
+391,REGN,Regeneron,Biotechnology,201.9
+392,RF,Regions Financial Corp.,Diversified Financial Services,201.91
+393,RSG,Republic Services Inc,Industrial Conglomerates,201.92
+394,RAI,Reynolds American Inc.,Tobacco,201.93
+395,RHI,Robert Half International,Human Resource & Employment Services,201.94
+396,ROK,Rockwell Automation Inc.,Industrial Conglomerates,201.95
+397,COL,Rockwell Collins,Industrial Conglomerates,201.96
+398,ROP,Roper Industries,Industrial Conglomerates,201.97
+399,ROST,Ross Stores,Apparel Retail,201.98
+400,RCL,Royal Caribbean Cruises Ltd,"Hotel, Resorts and Cruise Lines",201.99
+401,R,Ryder System,Industrial Conglomerates,202
+402,CRM,Salesforce.com,Internet Software & Services,202.01
+403,SNDK,SanDisk Corporation,Computer Storage & Peripherals,202.02
+404,SCG,SCANA Corp,MultiUtilities,202.03
+405,SLB,Schlumberger Ltd.,Oil & Gas Equipment & Services,202.04
+406,SNI,Scripps Networks Interactive Inc.,Broadcasting & Cable TV,202.05
+407,STX,Seagate Technology,Computer Storage & Peripherals,202.06
+408,SEE,Sealed Air Corp.(New),Paper Packaging,202.07
+409,SRE,Sempra Energy,MultiUtilities,202.08
+410,SHW,Sherwin-Williams,Specialty Chemicals,202.09
+411,SIAL,Sigma-Aldrich,Diversified Chemicals,202.1
+412,SPG,Simon Property Group Inc,REITs,202.11
+413,SWKS,Skyworks Solutions,Semiconductors,202.12
+414,SLG,SL Green Realty,Office REITs,202.13
+415,SJM,Smucker (J.M.),Packaged Foods & Meats,202.14
+416,SNA,Snap-On Inc.,Household Appliances,202.15
+417,SO,Southern Co.,Electric Utilities,202.16
+418,LUV,Southwest Airlines,Airlines,202.17
+419,SWN,Southwestern Energy,Oil & Gas Exploration & Production,202.18
+420,SE,Spectra Energy Corp.,Oil & Gas Refining & Marketing & Transportation,202.19
+421,STJ,St Jude Medical,Health Care Equipment & Services,202.2
+422,SWK,Stanley Black & Decker,Household Appliances,202.21
+423,SPLS,Staples Inc.,Specialty Stores,202.22
+424,SBUX,Starbucks Corp.,Restaurants,202.23
+425,HOT,Starwood Hotels & Resorts,"Hotels, Resorts & Cruise Lines",202.24
+426,STT,State Street Corp.,Diversified Financial Services,202.25
+427,SRCL,Stericycle Inc,Industrial Conglomerates,202.26
+428,SYK,Stryker Corp.,Health Care Equipment & Services,202.27
+429,STI,SunTrust Banks,Banks,202.28
+430,SYMC,Symantec Corp.,Application Software,202.29
+431,SYY,Sysco Corp.,Food Distributors,202.3
+432,TROW,T. Rowe Price Group,Diversified Financial Services,202.31
+433,TGT,Target Corp.,General Merchandise Stores,202.32
+434,TEL,TE Connectivity Ltd.,Electronic Equipment & Instruments,202.33
+435,TE,TECO Energy,Electric Utilities,202.34
+436,THC,Tenet Healthcare Corp.,Health Care Facilities,202.35
+437,TDC,Teradata Corp.,Application Software,202.36
+438,TSO,Tesoro Petroleum Co.,Oil & Gas Refining & Marketing & Transportation,202.37
+439,TXN,Texas Instruments,Semiconductors,202.38
+440,TXT,Textron Inc.,Industrial Conglomerates,202.39
+441,HSY,The Hershey Company,Packaged Foods & Meats,202.4
+442,TRV,The Travelers Companies Inc.,Property & Casualty Insurance,202.41
+443,TMO,Thermo Fisher Scientific,Health Care Equipment & Services,202.42
+444,TIF,Tiffany & Co.,"Apparel, Accessories & Luxury Goods",202.43
+445,TWX,Time Warner Inc.,Broadcasting & Cable TV,202.44
+446,TWC,Time Warner Cable Inc.,Broadcasting & Cable TV,202.45
+447,TJX,TJX Companies Inc.,Apparel Retail,202.46
+448,TMK,Torchmark Corp.,Life & Health Insurance,202.47
+449,TSS,Total System Services,Internet Software & Services,202.48
+450,TSCO,Tractor Supply Company,Specialty Retail,202.49
+451,RIG,Transocean,Oil & Gas Drilling,202.5
+452,TRIP,TripAdvisor,Internet Retail,202.51
+453,FOXA,Twenty-First Century Fox,Publishing,202.52
+454,TSN,Tyson Foods,Packaged Foods & Meats,202.53
+455,TYC,Tyco International,Industrial Conglomerates,202.54
+456,USB,U.S. Bancorp,Banks,202.55
+457,UA,Under Armour,"Apparel, Accessories & Luxury Goods",202.56
+458,UNP,Union Pacific,Railroads,202.57
+459,UNH,United Health Group Inc.,Managed Health Care,202.58
+460,UPS,United Parcel Service,Air Freight & Logistics,202.59
+461,URI,"United Rentals, Inc.",Trading Companies & Distributors,202.6
+462,UTX,United Technologies,Industrial Conglomerates,202.61
+463,UHS,"Universal Health Services, Inc.",Health Care Facilities,202.62
+464,UNM,Unum Group,Diversified Financial Services,202.63
+465,URBN,Urban Outfitters,Apparel Retail,202.64
+466,VFC,V.F. Corp.,"Apparel, Accessories & Luxury Goods",202.65
+467,VLO,Valero Energy,Oil & Gas Refining & Marketing & Transportation,202.66
+468,VAR,Varian Medical Systems,Health Care Equipment & Services,202.67
+469,VTR,Ventas Inc,Diversified Financial Services,202.68
+470,VRSN,Verisign Inc.,Internet Software & Services,202.69
+471,VZ,Verizon Communications,Integrated Telecommunications Services,202.7
+472,VRTX,Vertex Pharmaceuticals Inc,Biotechnology,202.71
+473,VIAB,Viacom Inc.,Broadcasting & Cable TV,202.72
+474,V,Visa Inc.,Internet Software & Services,202.73
+475,VNO,Vornado Realty Trust,REITs,202.74
+476,VMC,Vulcan Materials,Construction Materials,202.75
+477,WMT,Wal-Mart Stores,Hypermarkets & Super Centers,202.76
+478,WBA,Walgreens Boots Alliance,Drug Retail,202.77
+479,DIS,The Walt Disney Company,Broadcasting & Cable TV,202.78
+480,WM,Waste Management Inc.,Environmental Services,202.79
+481,WAT,Waters Corporation,Health Care Distributors & Services,202.8
+482,ANTM,Anthem Inc.,Managed Health Care,202.81
+483,WFC,Wells Fargo,Banks,202.82
+484,WDC,Western Digital,Computer Storage & Peripherals,202.83
+485,WU,Western Union Co,Internet Software & Services,202.84
+486,WY,Weyerhaeuser Corp.,REITs,202.85
+487,WHR,Whirlpool Corp.,Household Appliances,202.86
+488,WFM,Whole Foods Market,Food Retail,202.87
+489,WMB,Williams Cos.,Oil & Gas Exploration & Production,202.88
+490,WEC,Wisconsin Energy Corporation,Electric Utilities,202.89
+491,WYN,Wyndham Worldwide,"Hotels, Resorts & Cruise Lines",202.9
+492,WYNN,Wynn Resorts Ltd,Casinos & Gaming,202.91
+493,XEL,Xcel Energy Inc,MultiUtilities,202.92
+494,XRX,Xerox Corp.,IT Consulting & Services,202.93
+495,XLNX,Xilinx Inc,Semiconductors,202.94
+496,XL,XL Capital,Property & Casualty Insurance,202.95
+497,XYL,Xylem Inc.,Industrial Conglomerates,202.96
+498,YHOO,Yahoo Inc.,Internet Software & Services,202.97
+499,YUM,Yum! Brands Inc,Restaurants,202.98
+500,ZMH,Zimmer Holdings,Health Care Equipment & Services,202.99,
+501,ZION,Zions Bancorp,Banks,203
+502,ZTS,Zoetis,Pharmaceuticals,203.01
+,,,,
+,,,,

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32901.82
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConverter", "FileConverter\FileConverter.csproj", "{82557E05-8312-4093-80A6-338D9D498115}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FC.Business", "FC.Business\FC.Business.csproj", "{7E92EDCB-0BB7-42AA-BDF3-F157B27ECC79}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FC.Data", "FC.Data\FC.Data.csproj", "{938E4F14-234B-41C2-8E7F-D919E7503C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FC.Converter", "FC.Converter\FC.Converter.csproj", "{776B6057-ECCF-4E1E-80CA-386365567796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{82557E05-8312-4093-80A6-338D9D498115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82557E05-8312-4093-80A6-338D9D498115}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82557E05-8312-4093-80A6-338D9D498115}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82557E05-8312-4093-80A6-338D9D498115}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7E92EDCB-0BB7-42AA-BDF3-F157B27ECC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7E92EDCB-0BB7-42AA-BDF3-F157B27ECC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E92EDCB-0BB7-42AA-BDF3-F157B27ECC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{938E4F14-234B-41C2-8E7F-D919E7503C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{938E4F14-234B-41C2-8E7F-D919E7503C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{938E4F14-234B-41C2-8E7F-D919E7503C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776B6057-ECCF-4E1E-80CA-386365567796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776B6057-ECCF-4E1E-80CA-386365567796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776B6057-ECCF-4E1E-80CA-386365567796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776B6057-ECCF-4E1E-80CA-386365567796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

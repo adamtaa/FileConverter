@@ -1,0 +1,23 @@
+<conversion>
+    <input format="CSV" hasHeader="true">
+        <column name="ID" type="int"/>
+        <column name="Ticker" type="string" length="25"/>
+        <column name="Company" type="string" length="25"/>
+        <column name="SubIndustry" type="string" length="255"/>
+        <column name="Price" type="double"/>
+    </input>
+    <output format="XML">
+        <column name="id" type="int"/>
+        <column name="ticker" type="string"/>
+        <column name="company" type="string"/>
+        <column name="subIndustry" type="string"/>
+        <column name="price" type="string"/>
+    </output>
+    <mapping>
+        <map source="ID" dest="id"/>
+        <map source="Ticker" dest="ticker"/>
+        <map source="Company" dest="company"/>
+        <map source="SubIndustry" dest="subIndustry"/>
+        <map source="Price" dest="price"/>
+    </mapping>
+</conversion>
