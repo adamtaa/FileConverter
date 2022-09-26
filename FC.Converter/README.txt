@@ -4,3 +4,4 @@ The file converter is a straight forward read of two files, one a csv data file,
 
 The program consists of a console application and two class libraries. The libraries contain the data access code and the conversion code respectively.
 
+Can be cloned from Github here: https://github.com/adamtaa/FileConverter
