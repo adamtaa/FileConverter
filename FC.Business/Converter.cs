@@ -23,7 +23,7 @@ namespace FC.Business
                     var source = map.Attribute("source")?.Value;
                     if (!String.IsNullOrWhiteSpace(source))
                     {
-                        next.Add(new XElement(source,new XAttribute("value",c[source])));
+                        next.Add(new XElement(source.ToLower(),new XAttribute("value",c[source])));
                     }
                     
                 }
